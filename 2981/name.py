@@ -5,3 +5,4 @@ def name(a,b):
 name("Budtawat", "Sirimajan")
 surename = input("Bu")
 lastname = input("Si")
+print(surename+lastname)
