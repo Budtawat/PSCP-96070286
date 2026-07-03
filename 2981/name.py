@@ -1,15 +1,14 @@
 """name"""
-def name(B1,B2):
+def name(a,b):
     '''function to print names'''
-    print(f"Hello {B1} {B2}")
-B1="Budtawat"
-B2="Sirimajan"
-name(B1, B2)
+    print(f"Hello {a} {b}")
+name("Budtawat", "Sirimajan")
+
 
 """nameless"""
-def nameless(B3):
+def nameless(c):
     '''function to print names'''
-    print(f"{B3}")
+    print(f"{c}")
 
 B3="BuSi"
 nameless(B3)
