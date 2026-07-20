@@ -1,6 +1,5 @@
-"""name"""
-def name(a,b):
-    '''function to print names'''
-    print(f"Hello {a} {b}")
-name("Budtawat", "Sirimajan")
-print("Budtawat"[:2]+"Sirimajan"[:2])
+"""Name"""
+fname= input()
+lname= input()
+print("Hello", fname , lname)
+print(fname[0:2]+lname[0:2])
