@@ -10,4 +10,3 @@ if op == "+":
     print(f"{n} + {reverse} = {n + reverse}")
 else:
     print(f"{n} * {reverse} = {n * reverse}")
-    
