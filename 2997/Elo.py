@@ -10,4 +10,3 @@ if player == "A":
     print(f"{EA:.2f}")
 else:
     print(f"{EB:.2f}")
-    
