@@ -2,7 +2,8 @@
 temp = float(input())
 from_unit = input()
 to_unit = input()
-
+c = 0
+ans = 0
 if from_unit == "C":
     c = temp
 elif from_unit == "F":
