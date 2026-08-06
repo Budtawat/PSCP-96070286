@@ -2,4 +2,7 @@
 
 n = int(input())
 
-print(1 if n == 1 else 2 * n)
+if n == 1:
+    print(1)
+else:
+    print(2 * n)
