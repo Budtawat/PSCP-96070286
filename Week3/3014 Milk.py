@@ -7,7 +7,7 @@ d = int(input())
 
 milk = d // a
 
-if b != 0:
+if b:
     caps = milk
 
     while caps >= b:
