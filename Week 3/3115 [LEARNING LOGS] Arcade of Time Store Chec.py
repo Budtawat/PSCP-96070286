@@ -18,5 +18,5 @@ def main():
     queries = list(map(int, input().split()))
     results = [str(open_stores[q]) for q in queries]
 
-    print(" ".join(results))
+    print(" "   (results))
 main()
